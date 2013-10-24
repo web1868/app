@@ -34,18 +34,13 @@ href="desktop.css" media="screen and (min-width: 481px)" />
 </div>
 <div id="content">
 <h2>About</h2>
-<p>Jonathan Stark is a web developer, speaker, and author. His
-consulting firm, Jonathan Stark Consulting, Inc., has attracted
-clients such as Staples, Turner Broadcasting, and the PGA Tour.
-...
+<p>
 </p>
 </div>
 <div id="sidebar">
-<img alt="Manga Portrait of Jonathan Stark"
-src="jonathanstark-manga-small.png"/>
-<p>Jonathan Stark is a mobile and web application developer who the
-Wall Street Journal has called an expert on publishing desktop
-data to the web.</p>
+<img alt="Manga Portrait of william d"
+src="william d-manga-small.png"/>
+<p>.</p>
 </div>
 <div id="footer">
 <ul>
@@ -53,7 +48,7 @@ data to the web.</p>
 <li><a href="about.html">About</a></li>
 <li><a href="blog.html">Blog</a></li>
 </ul>
-<p class="subtle">Jonathan Stark Consulting, Inc.</p>
+<p class="subtle, .</p>
 </div>
 </div>
 </body>
