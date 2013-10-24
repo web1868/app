@@ -15,12 +15,12 @@ href="desktop.css" media="screen and (min-width: 481px)" />
 <body>
 <div id="container">
 <div id="header">
-<h1><a href="./">Jonathan Stark</a></h1>
+<h1><a href="./">lounge</a></h1>
 <div id="utility">
 <ul>
-<li><a href="members.php">About</a></li>
-<li><a href="friends.php">Blog</a></li>
-<li><a href="profile.php.html">Contact</a></li>
+<li><a href="members.php">members</a></li>
+<li><a href="friends.php">friends</a></li>
+<li><a href="profile.php.html">profile</a></li>
 </ul>
 </div>
 <div id="nav">
